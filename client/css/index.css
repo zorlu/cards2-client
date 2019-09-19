@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    /*cursor: url(../img/cursor.cur), auto;*/
+}
+canvas {
+    background-color: blanchedalmond;
+    border: black 1px solid;
+    /*cursor: url(../img/cursor.cur), default;*/
+
+
+    /*background-image: url(../img/Elfhome.jpg);*/
+    background-size: 100% 100%;
+
+}
+
+canvas.mouseDown{
+    /*cursor: url(../img/cursor2.cur), default;*/
+}
+
+@font-face {
+    font-family: 'Hearthstone';
+    src: url('OPTIBelwe-Medium.otf');
+}
