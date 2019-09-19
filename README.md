@@ -10,7 +10,8 @@ Server (Python/Django) repo is [here](https://github.com/zorlu/cards2-server).
 
 #### Game modes
 
-* Player vs AI free style (uncomment required block in game_server.py) also not tested!
+* Player vs Player (uncomment required block in game_server.py) also not tested!
+* Player vs AI
 * Player vs AI Dungeon stages (modify requires in client wsocket.js)
 * AI vs AI (inspector mode) (modify requires in client wsocket.js)
 
