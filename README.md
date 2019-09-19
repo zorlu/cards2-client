@@ -8,6 +8,12 @@ Server (Python/Django) repo is [here](https://github.com/zorlu/cards2-server).
 * Check your js/wsocket.js for custom parameters
 * Open index.html with your browser
 
+#### Game modes
+
+* Player vs AI free style (uncomment required block in game_server.py) also not tested!
+* Player vs AI Dungeon stages (modify requires in client wsocket.js)
+* AI vs AI (inspector mode) (modify requires in client wsocket.js)
+
 
 ### TODO 
 * Documentation
