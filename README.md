@@ -5,7 +5,7 @@ Server (Python/Django) repo is [here](https://github.com/zorlu/cards2-server).
 
 ### Installation
 * Make sure your [cards2-server](https://github.com/zorlu/cards2-server) is up and running.
-* *git clone https://github.com/zorlu/cards2-server.git*
+* *git clone https://github.com/zorlu/cards2-client.git*
 * Check your js/wsocket.js for custom parameters
 * Open index.html with your browser
 
