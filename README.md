@@ -9,6 +9,9 @@ Server (Python/Django) repo is [here](https://github.com/zorlu/cards2-server).
 * Check your js/wsocket.js for custom parameters
 * Open index.html with your browser
 
+### Screenshot
+![Cards 2 running screenshot](https://github.com/zorlu/cards2-client/raw/master/client/img/screenshot.jpg)
+
 #### Game modes
 
 * Player vs Player (uncomment required block in game_server.py) also not tested!
